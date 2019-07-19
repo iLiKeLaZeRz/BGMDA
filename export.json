@@ -17,14 +17,14 @@
       "rid": 0,
       "teams": [
         {
-          "tid": 12,
+          "tid": 19,
           "pids": [],
           "pidsExcluded": [],
           "dpids": [],
           "dpidsExcluded": []
         },
         {
-          "tid": 28,
+          "tid": 0,
           "pids": [],
           "pidsExcluded": [],
           "dpids": [],
@@ -99,6 +99,23 @@
       ],
       "season": 2020,
       "eid": 3
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/10/roster/NYK/2020\">Knicks</a> traded <a href=\"/l/10/player/183\">Wayne Ellington</a>, <a href=\"/l/10/player/401\">Mitchell Robinson</a>, <a href=\"/l/10/player/446\">Marcus Morris</a>, <a href=\"/l/10/player/517\">Kevin Knox</a>, a 2021 1st round pick (NYK), and a 2023 1st round pick (DAL) to the <a href=\"/l/10/roster/DAL/2020\">Mavericks</a> for <a href=\"/l/10/player/70\">Kristaps Porzingis</a>.",
+      "pids": [
+        183,
+        401,
+        446,
+        517,
+        70
+      ],
+      "tids": [
+        19,
+        6
+      ],
+      "season": 2020,
+      "eid": 4
     }
   ],
   "teams": [
@@ -5461,7 +5478,7 @@
     },
     {
       "key": "userTid",
-      "value": 7
+      "value": 28
     },
     {
       "key": "userTids",
@@ -6285,7 +6302,7 @@
       "dpid": 97
     },
     {
-      "tid": 19,
+      "tid": 6,
       "originalTid": 19,
       "round": 1,
       "pick": 0,
@@ -7037,7 +7054,7 @@
       "dpid": 191
     },
     {
-      "tid": 19,
+      "tid": 6,
       "originalTid": 6,
       "round": 1,
       "pick": 0,
@@ -13033,12 +13050,12 @@
       "weight": 190,
       "born": {
         "year": 1997,
-        "loc": "Raleigh, NC"
+        "loc": "Raleigh, NC - '21 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629010.png",
       "contract": {
         "amount": 3580,
-        "exp": 2022
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -14771,12 +14788,12 @@
       "weight": 246,
       "born": {
         "year": 1995,
-        "loc": "Little Rock, AR"
+        "loc": "Little Rock, AR - '21 TO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626171.png",
       "contract": {
         "amount": 15000,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -18410,7 +18427,7 @@
       "weight": 218,
       "born": {
         "year": 1995,
-        "loc": "Dubrovnik, Croatia"
+        "loc": "Dubrovnik, Croatia - '21 PO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626209.png",
       "contract": {
@@ -18596,31 +18613,29 @@
       "ratings": [
         {
           "diq": 52,
-          "dnk": 57,
-          "drb": 51,
+          "dnk": 67,
+          "drb": 59,
           "endu": 87,
-          "fg": 61,
-          "ft": 59,
+          "fg": 66,
+          "ft": 64,
           "hgt": 71,
           "ins": 94,
-          "jmp": 54,
-          "oiq": 66,
-          "pss": 67,
-          "reb": 78,
+          "jmp": 59,
+          "oiq": 69,
+          "pss": 51,
+          "reb": 83,
           "spd": 46,
           "stre": 77,
           "tp": 43,
           "season": 2020,
           "fuzz": 3.184756550368969,
           "skills": [
-            "A",
             "Di",
             "Po",
-            "Ps",
             "R"
           ],
-          "ovr": 67,
-          "pot": 70,
+          "ovr": 69,
+          "pot": 74,
           "pos": "C"
         }
       ],
@@ -18800,11 +18815,11 @@
       ],
       "firstName": "Karl-Anthony",
       "lastName": "Towns",
-      "value": 67.9,
-      "valueNoPot": 67,
-      "valueFuzz": 67.9,
-      "valueNoPotFuzz": 67,
-      "valueWithContract": 67.9,
+      "value": 70.5,
+      "valueNoPot": 69,
+      "valueFuzz": 70.5,
+      "valueNoPotFuzz": 69,
+      "valueWithContract": 70.5,
       "salaries": [
         {
           "season": 2020,
@@ -21576,7 +21591,7 @@
       "pid": 69
     },
     {
-      "tid": 6,
+      "tid": 19,
       "name": "Kristaps Porzingis",
       "ratings": [
         {
@@ -21773,10 +21788,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 19,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        6
+        6,
+        19
       ],
       "firstName": "Kristaps",
       "lastName": "Porzingis",
@@ -21843,12 +21903,12 @@
       "weight": 206,
       "born": {
         "year": 1993,
-        "loc": "Meridian, MS"
+        "loc": "Meridian, MS - '21 PO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203918.png",
       "contract": {
         "amount": 8000,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -22390,12 +22450,12 @@
       "weight": 210,
       "born": {
         "year": 1994,
-        "loc": "Portland, OR"
+        "loc": "Portland, OR - '21 PO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203924.png",
       "contract": {
         "amount": 9000,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 2,
@@ -25995,12 +26055,12 @@
       "weight": 250,
       "born": {
         "year": 1995,
-        "loc": "Chicago, IL"
+        "loc": "Chicago, IL - '21 PO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203953.png",
       "contract": {
         "amount": 6500,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -30037,12 +30097,12 @@
       "weight": 238,
       "born": {
         "year": 1991,
-        "loc": "Toronto, Canada"
+        "loc": "Toronto, Canada - '21 PO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203482.png",
       "contract": {
         "amount": 12680,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -31156,12 +31216,12 @@
       "weight": 186,
       "born": {
         "year": 1986,
-        "loc": "Louisville, KY"
+        "loc": "Louisville, KY - '21 PO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200765.png",
       "contract": {
         "amount": 5000,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -37068,7 +37128,7 @@
       "weight": 190,
       "born": {
         "year": 1999,
-        "loc": "Ixelles, Belgium"
+        "loc": "Ixelles, Belgium - '21 TO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628373.png",
       "contract": {
@@ -38093,12 +38153,12 @@
       "weight": 240,
       "born": {
         "year": 2000,
-        "loc": "Indianapolis, IN"
+        "loc": "Indianapolis, IN - '21 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628991.png",
       "contract": {
         "amount": 6950,
-        "exp": 2022
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -38288,12 +38348,12 @@
       "weight": 217,
       "born": {
         "year": 1992,
-        "loc": "Riverside, CA"
+        "loc": "Riverside, CA - '21 PO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203503.png",
       "contract": {
         "amount": 11400,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -38325,9 +38385,7 @@
           "tp": 60,
           "season": 2020,
           "fuzz": 2.2201425383299656,
-          "skills": [
-            "3"
-          ],
+          "skills": [],
           "ovr": 50,
           "pot": 52,
           "pos": "SF"
@@ -39321,12 +39379,12 @@
       "weight": 245,
       "born": {
         "year": 1998,
-        "loc": "Cleveland, OH"
+        "loc": "Cleveland, OH - '21 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629016.png",
       "contract": {
         "amount": 1900,
-        "exp": 2022
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -43434,7 +43492,7 @@
       "weight": 218,
       "born": {
         "year": 1996,
-        "loc": "Greensboro, NC"
+        "loc": "Greensboro, NC - '21 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629033.png",
       "contract": {
@@ -44047,7 +44105,7 @@
       "pid": 182
     },
     {
-      "tid": 19,
+      "tid": 6,
       "name": "Wayne Ellington",
       "ratings": [
         {
@@ -44081,12 +44139,12 @@
       "weight": 200,
       "born": {
         "year": 1988,
-        "loc": "Wynnewood, PA"
+        "loc": "Wynnewood, PA - '21 TO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201961.png",
       "contract": {
         "amount": 8000,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -44240,10 +44298,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 6,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        19
+        19,
+        6
       ],
       "firstName": "Wayne",
       "lastName": "Ellington",
@@ -45664,12 +45767,12 @@
       "weight": 205,
       "born": {
         "year": 1993,
-        "loc": "Saint-Maurice, France"
+        "loc": "Saint-Maurice, France - '21 PO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203095.png",
       "contract": {
         "amount": 17000,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -47070,12 +47173,12 @@
       "weight": 227,
       "born": {
         "year": 1991,
-        "loc": "Montgomery, AL"
+        "loc": "Montgomery, AL - '21 PO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203210.png",
       "contract": {
         "amount": 5000,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 0,
@@ -47618,12 +47721,12 @@
       "weight": 270,
       "born": {
         "year": 1988,
-        "loc": "Flint, MI"
+        "loc": "Flint, MI - '21 PO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201580.png",
       "contract": {
         "amount": 4000,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -49395,12 +49498,12 @@
       "weight": 205,
       "born": {
         "year": 1993,
-        "loc": "Thomaston, GA"
+        "loc": "Thomaston, GA - '21 PO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203484.png",
       "contract": {
         "amount": 8000,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -49779,12 +49882,12 @@
       "weight": 279,
       "born": {
         "year": 1994,
-        "loc": "Mount Vernon, NY"
+        "loc": "Mount Vernon, NY - '21 PO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203083.png",
       "contract": {
         "amount": 27100,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -54315,12 +54418,12 @@
       "weight": 230,
       "born": {
         "year": 1998,
-        "loc": "Winston-Salem, NC"
+        "loc": "Winston-Salem, NC - '21 TO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628385.png",
       "contract": {
         "amount": 2580,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -63685,12 +63788,12 @@
       "weight": 201,
       "born": {
         "year": 1998,
-        "loc": "Flower Mound, TX"
+        "loc": "Flower Mound, TX - '21 TO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628390.png",
       "contract": {
         "amount": 2480,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -64624,12 +64727,12 @@
       "weight": 205,
       "born": {
         "year": 1997,
-        "loc": "Newark, DE"
+        "loc": "Newark, DE - '21 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628978.png",
       "contract": {
         "amount": 2900,
-        "exp": 2022
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -67666,12 +67769,12 @@
       "weight": 218,
       "born": {
         "year": 1999,
-        "loc": "Ljubjana, Slovenia"
+        "loc": "Ljubjana, Slovenia - '21 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/1610612742/2018/260x190/1629029.png",
       "contract": {
         "amount": 7700,
-        "exp": 2022
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -68992,12 +69095,12 @@
       "weight": 175,
       "born": {
         "year": 1988,
-        "loc": "Fayetteville, AR"
+        "loc": "Fayetteville, AR - '21 PO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201144.png",
       "contract": {
         "amount": 32500,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -69916,12 +70019,12 @@
       "weight": 250,
       "born": {
         "year": 1987,
-        "loc": "Cheyenne, WY"
+        "loc": "Cheyenne, WY - '21 PO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201949.png",
       "contract": {
         "amount": 15100,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -72016,12 +72119,12 @@
       "weight": 225,
       "born": {
         "year": 1998,
-        "loc": "Flint, MI"
+        "loc": "Flint, MI - '21 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628970.png",
       "contract": {
         "amount": 3750,
-        "exp": 2022
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -75170,7 +75273,7 @@
       "weight": 180,
       "born": {
         "year": 1998,
-        "loc": "Fayetteville, NC"
+        "loc": "Fayetteville, NC - '21 TO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628372.png",
       "contract": {
@@ -76686,12 +76789,12 @@
       "weight": 197,
       "born": {
         "year": 1996,
-        "loc": "Mission Viejo, CA"
+        "loc": "Mission Viejo, CA - '21 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628990.png",
       "contract": {
         "amount": 2350,
-        "exp": 2022
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -78977,7 +79080,7 @@
       "weight": 253,
       "born": {
         "year": 1993,
-        "loc": "Chicago, IL"
+        "loc": "Chicago, IL - '21 PO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203076.png",
       "contract": {
@@ -79424,12 +79527,12 @@
       "weight": 200,
       "born": {
         "year": 1993,
-        "loc": "Santa Monica, CA"
+        "loc": "Santa Monica, CA - '21 PO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203085.png",
       "contract": {
         "amount": 2150,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -81841,12 +81944,12 @@
       "weight": 205,
       "born": {
         "year": 1992,
-        "loc": "Miami, FL"
+        "loc": "Miami, FL - '21 PO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203501.png",
       "contract": {
         "amount": 18150,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -82057,12 +82160,12 @@
       "weight": 225,
       "born": {
         "year": 1997,
-        "loc": "El Cajon, CA"
+        "loc": "El Cajon, CA - '21 TO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628388.png",
       "contract": {
         "amount": 2830,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -82598,12 +82701,12 @@
       "weight": 215,
       "born": {
         "year": 1998,
-        "loc": "Jefferson City, MO"
+        "loc": "Jefferson City, MO - '21 TO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628384.png",
       "contract": {
         "amount": 2280,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -82818,12 +82921,12 @@
       "weight": 195,
       "born": {
         "year": 1999,
-        "loc": "Bihac, Bosnia & Herzegovina"
+        "loc": "Bihac, Bosnia & Herzegovina - '21 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629058.png",
       "contract": {
         "amount": 1930,
-        "exp": 2022
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -85673,7 +85776,7 @@
       "pid": 400
     },
     {
-      "tid": 19,
+      "tid": 6,
       "name": "Mitchell Robinson",
       "ratings": [
         {
@@ -85868,10 +85971,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 6,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        19
+        19,
+        6
       ],
       "firstName": "Mitchell",
       "lastName": "Robinson",
@@ -89515,12 +89663,12 @@
       "weight": 225,
       "born": {
         "year": 1999,
-        "loc": "Phoenix, AZ"
+        "loc": "Phoenix, AZ - '21 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628963.png",
       "contract": {
         "amount": 8580,
-        "exp": 2022
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -94784,7 +94932,7 @@
       "pid": 445
     },
     {
-      "tid": 19,
+      "tid": 6,
       "name": "Marcus Morris",
       "ratings": [
         {
@@ -94982,10 +95130,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 6,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        19
+        19,
+        6
       ],
       "firstName": "Marcus",
       "lastName": "Morris",
@@ -96471,12 +96664,12 @@
       "weight": 245,
       "born": {
         "year": 1990,
-        "loc": "Philadelphia, PA"
+        "loc": "Philadelphia, PA - '21 PO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202693.png",
       "contract": {
         "amount": 3700,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -97892,7 +98085,7 @@
       "weight": 200,
       "born": {
         "year": 1997,
-        "loc": "Avondale, LA"
+        "loc": "Avondale, LA - '21 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/1610612753/2018/260x190/1628982.png",
       "contract": {
@@ -98554,7 +98747,7 @@
       "weight": 220,
       "born": {
         "year": 1987,
-        "loc": "San Antonio, TX"
+        "loc": "San Antonio, TX - '21 PO"
       },
       "imgURL": "http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4032.png",
       "contract": {
@@ -98769,7 +98962,7 @@
       "weight": 275,
       "born": {
         "year": 1988,
-        "loc": "North Hollywood, CA"
+        "loc": "North Hollywood, CA - '21 PO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201577.png",
       "contract": {
@@ -99508,12 +99701,12 @@
       "weight": 200,
       "born": {
         "year": 1989,
-        "loc": "Lisieux, France"
+        "loc": "Lisieux, France - '21 PO"
       },
       "imgURL": "http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3416.png",
       "contract": {
         "amount": 25550,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -99948,12 +100141,12 @@
       "weight": 215,
       "born": {
         "year": 2000,
-        "loc": "Las Vegas, NV"
+        "loc": "Las Vegas, NV - '21 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628972.png",
       "contract": {
         "amount": 3230,
-        "exp": 2022
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -104595,12 +104788,12 @@
       "weight": 240,
       "born": {
         "year": 1998,
-        "loc": "Shreveport, LA"
+        "loc": "Shreveport, LA - '21 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/1040x760/1629057.png",
       "contract": {
         "amount": 1950,
-        "exp": 2022
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -105598,12 +105791,12 @@
       "weight": 210,
       "born": {
         "year": 1997,
-        "loc": "Greenwich, CT"
+        "loc": "Greenwich, CT - '21 TO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628378.png",
       "contract": {
         "amount": 3650,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -107027,12 +107220,12 @@
       "weight": 220,
       "born": {
         "year": 1990,
-        "loc": "Compton, CA"
+        "loc": "Compton, CA - '21 PO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201942.png",
       "contract": {
         "amount": 27740,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -107596,12 +107789,12 @@
       "weight": 195,
       "born": {
         "year": 1999,
-        "loc": "Garland, TX"
+        "loc": "Garland, TX - '21 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629015.png",
       "contract": {
         "amount": 3080,
-        "exp": 2022
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -107981,12 +108174,12 @@
       "weight": 255,
       "born": {
         "year": 1999,
-        "loc": "Fairburn, GA"
+        "loc": "Fairburn, GA - '21 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628976.png",
       "contract": {
         "amount": 5200,
-        "exp": 2022
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -109036,12 +109229,12 @@
       "weight": 240,
       "born": {
         "year": 1997,
-        "loc": "Jyvaskyla, Finland"
+        "loc": "Jyvaskyla, Finland - '21 TO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628374.png",
       "contract": {
         "amount": 5300,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -109221,7 +109414,7 @@
       "pid": 516
     },
     {
-      "tid": 19,
+      "tid": 6,
       "name": "Kevin Knox",
       "ratings": [
         {
@@ -109253,12 +109446,12 @@
       "weight": 215,
       "born": {
         "year": 2000,
-        "loc": "Phoenix, AZ"
+        "loc": "Phoenix, AZ - '21 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628995.png",
       "contract": {
         "amount": 4400,
-        "exp": 2022
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -109412,10 +109605,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 6,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        19
+        19,
+        6
       ],
       "firstName": "Kevin",
       "lastName": "Knox",
@@ -110287,7 +110525,7 @@
       "weight": 245,
       "born": {
         "year": 1992,
-        "loc": "Zurich, Switzerland"
+        "loc": "Zurich, Switzerland - '21 PO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202683.png",
       "contract": {
@@ -111081,7 +111319,9 @@
           "tp": 46,
           "season": 2020,
           "fuzz": -2.393948720227364,
-          "skills": [],
+          "skills": [
+            "B"
+          ],
           "ovr": 62,
           "pot": 62,
           "pos": "SF"
@@ -111092,12 +111332,12 @@
       "weight": 225,
       "born": {
         "year": 1990,
-        "loc": "Indianapolis, IN"
+        "loc": "Indianapolis, IN - '21 PO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202330.png",
       "contract": {
         "amount": 32700,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -111686,12 +111926,12 @@
       "weight": 190,
       "born": {
         "year": 1999,
-        "loc": "Atlanta, GA"
+        "loc": "Atlanta, GA - '21 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629012.png",
       "contract": {
         "amount": 4780,
-        "exp": 2022
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -112723,12 +112963,12 @@
       "weight": 198,
       "born": {
         "year": 1993,
-        "loc": "St. Louis, MO"
+        "loc": "St. Louis, MO - '21 PO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203490.png",
       "contract": {
         "amount": 27250,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -114492,12 +114732,12 @@
       "weight": 245,
       "born": {
         "year": 1996,
-        "loc": "Fullerton, CA"
+        "loc": "Fullerton, CA - '21 PO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626169.png",
       "contract": {
         "amount": 3750,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -115086,12 +115326,12 @@
       "weight": 195,
       "born": {
         "year": 1986,
-        "loc": "Baton Rouge, LA"
+        "loc": "Baton Rouge, LA - '21 TO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202066.png",
       "contract": {
         "amount": 5000,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 0,
@@ -117736,12 +117976,12 @@
       "weight": 170,
       "born": {
         "year": 1998,
-        "loc": "Katy, TX"
+        "loc": "Katy, TX - '21 TO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628368.png",
       "contract": {
         "amount": 6400,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -118661,12 +118901,12 @@
       "weight": 205,
       "born": {
         "year": 1998,
-        "loc": "Naples, FL"
+        "loc": "Naples, FL - '21 TO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628371.png",
       "contract": {
         "amount": 5800,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -120656,9 +120896,7 @@
           "tp": 58,
           "season": 2020,
           "fuzz": 1.2896677990603944,
-          "skills": [
-            "Ps"
-          ],
+          "skills": [],
           "ovr": 57,
           "pot": 69,
           "pos": "PG"
@@ -120669,12 +120907,12 @@
       "weight": 190,
       "born": {
         "year": 1998,
-        "loc": "Chino Hills, CA"
+        "loc": "Chino Hills, CA - '21 TO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628366.png",
       "contract": {
         "amount": 8730,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -121984,7 +122222,7 @@
       "weight": 240,
       "born": {
         "year": 1992,
-        "loc": "St. Louis Park, MN"
+        "loc": "St. Louis Park, MN - '21 PO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203488.png",
       "contract": {
@@ -122359,12 +122597,12 @@
       "weight": 200,
       "born": {
         "year": 1998,
-        "loc": "Baton Rouge, LA"
+        "loc": "Baton Rouge, LA - '21 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628980.png",
       "contract": {
         "amount": 1950,
-        "exp": 2022
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -122788,10 +123026,7 @@
           "tp": 42,
           "season": 2020,
           "fuzz": 2.602436542576563,
-          "skills": [
-            "A",
-            "Dp"
-          ],
+          "skills": [],
           "ovr": 49,
           "pot": 55,
           "pos": "SF"
@@ -122802,7 +123037,7 @@
       "weight": 235,
       "born": {
         "year": 1996,
-        "loc": "Normal, IL"
+        "loc": "Normal, IL - '21 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628966.png",
       "contract": {
@@ -123774,7 +124009,7 @@
       "weight": 210,
       "born": {
         "year": 1991,
-        "loc": "Ventura, CA"
+        "loc": "Ventura, CA - '21 PO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203516.png",
       "contract": {
@@ -124152,12 +124387,12 @@
       "weight": 215,
       "born": {
         "year": 1997,
-        "loc": "Malvern, PA"
+        "loc": "Malvern, PA - '21 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628969.png",
       "contract": {
         "amount": 4180,
-        "exp": 2022
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -124576,6 +124811,7 @@
           "season": 2020,
           "fuzz": -1.3022877822831314,
           "skills": [
+            "Di",
             "Po"
           ],
           "ovr": 46,
@@ -124588,12 +124824,12 @@
       "weight": 225,
       "born": {
         "year": 1998,
-        "loc": "Harlem, NY"
+        "loc": "Harlem, NY - '21 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/1610612753/2018/260x190/1628964.png",
       "contract": {
         "amount": 5700,
-        "exp": 2022
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -124973,12 +125209,12 @@
       "weight": 240,
       "born": {
         "year": 1998,
-        "loc": "Gatesville, NC"
+        "loc": "Gatesville, NC - '21 TO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628389.png",
       "contract": {
         "amount": 3450,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -125353,12 +125589,12 @@
       "weight": 200,
       "born": {
         "year": 1998,
-        "loc": "Lepanto, AR"
+        "loc": "Lepanto, AR - '21 TO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628370.png",
       "contract": {
         "amount": 4030,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -127950,12 +128186,12 @@
       "weight": 208,
       "born": {
         "year": 1998,
-        "loc": "St. Louis, MO"
+        "loc": "St. Louis, MO - '21 TO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628369.png",
       "contract": {
         "amount": 7850,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -130132,7 +130368,7 @@
       "weight": 230,
       "born": {
         "year": 1998,
-        "loc": "Austin, TX"
+        "loc": "Austin, TX - '21 TO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628386.png",
       "contract": {
@@ -130782,12 +131018,12 @@
       "weight": 254,
       "born": {
         "year": 1997,
-        "loc": "Split, Croatia"
+        "loc": "Split, Croatia - '21 TO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627790.png",
       "contract": {
         "amount": 2280,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -131001,12 +131237,12 @@
       "weight": 215,
       "born": {
         "year": 1999,
-        "loc": "Columbia, MO"
+        "loc": "Columbia, MO - '21 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629008.png",
       "contract": {
         "amount": 3400,
-        "exp": 2022
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -132926,12 +133162,12 @@
       "weight": 240,
       "born": {
         "year": 1997,
-        "loc": "Berlin, Germany"
+        "loc": "Berlin, Germany - '21 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629021.png",
       "contract": {
         "amount": 2080,
-        "exp": 2022
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -133136,7 +133372,9 @@
           "tp": 30,
           "season": 2020,
           "fuzz": -1.9812104481740356,
-          "skills": [],
+          "skills": [
+            "R"
+          ],
           "ovr": 35,
           "pot": 46,
           "pos": "PF"
@@ -133147,12 +133385,12 @@
       "weight": 250,
       "born": {
         "year": 1997,
-        "loc": "Fort Wayne, IN"
+        "loc": "Fort Wayne, IN - '21 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628403.png",
       "contract": {
         "amount": 2030,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -134886,12 +135124,12 @@
       "weight": 196,
       "born": {
         "year": 1999,
-        "loc": "Reading, PA"
+        "loc": "Reading, PA - '21 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629022.png",
       "contract": {
         "amount": 2780,
-        "exp": 2022
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -136413,12 +136651,12 @@
       "weight": 190,
       "born": {
         "year": 1999,
-        "loc": "Albany, NY"
+        "loc": "Albany, NY - '21 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png",
       "contract": {
         "amount": 2650,
-        "exp": 2022
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -139084,12 +139322,12 @@
       "weight": 200,
       "born": {
         "year": 1995,
-        "loc": "Parker, CO"
+        "loc": "Parker, CO - '21 TO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628401.png",
       "contract": {
         "amount": 1950,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -140760,12 +140998,12 @@
       "weight": 183,
       "born": {
         "year": 1999,
-        "loc": "Altamonte Springs, FL"
+        "loc": "Altamonte Springs, FL - '21 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629014.png",
       "contract": {
         "amount": 2150,
-        "exp": 2022
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -141115,25 +141353,25 @@
       "ratings": [
         {
           "diq": 44,
-          "dnk": 54,
+          "dnk": 74,
           "drb": 40,
-          "endu": 38,
-          "fg": 32,
-          "ft": 34,
-          "hgt": 50,
+          "endu": 58,
+          "fg": 62,
+          "ft": 64,
+          "hgt": 40,
           "ins": 48,
-          "jmp": 46,
-          "oiq": 39,
+          "jmp": 66,
+          "oiq": 49,
           "pss": 35,
           "reb": 49,
-          "spd": 47,
-          "stre": 54,
-          "tp": 34,
+          "spd": 61,
+          "stre": 34,
+          "tp": 44,
           "season": 2020,
           "fuzz": 1.5947188184570082,
           "skills": [],
-          "ovr": 39,
-          "pot": 55,
+          "ovr": 52,
+          "pot": 65,
           "pos": "SG"
         }
       ],
@@ -141142,12 +141380,12 @@
       "weight": 198,
       "born": {
         "year": 1999,
-        "loc": "Queens, NY"
+        "loc": "Queens, NY - '21 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628977.png",
       "contract": {
         "amount": 1430,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 2,
@@ -141308,11 +141546,11 @@
       ],
       "firstName": "Hamidou",
       "lastName": "Diallo",
-      "value": 48.6,
-      "valueNoPot": 39,
-      "valueFuzz": 48.6,
-      "valueNoPotFuzz": 39,
-      "valueWithContract": 48.6,
+      "value": 59.800000000000004,
+      "valueNoPot": 52.00000000000001,
+      "valueFuzz": 59.800000000000004,
+      "valueNoPotFuzz": 52.00000000000001,
+      "valueWithContract": 59.800000000000004,
       "salaries": [
         {
           "season": 2020,
@@ -141363,12 +141601,12 @@
       "weight": 180,
       "born": {
         "year": 1999,
-        "loc": "Lubbock, TX"
+        "loc": "Lubbock, TX - '21 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png",
       "contract": {
         "amount": 6300,
-        "exp": 2022
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -141586,12 +141824,12 @@
       "weight": 222,
       "born": {
         "year": 1996,
-        "loc": "Flint, MI"
+        "loc": "Flint, MI - '21 TO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628398.png",
       "contract": {
         "amount": 1980,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -145799,12 +146037,12 @@
       "weight": 185,
       "born": {
         "year": 1997,
-        "loc": "Ruston, LA"
+        "loc": "Ruston, LA - '21 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628988.png",
       "contract": {
         "amount": 2250,
-        "exp": 2022
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -147941,12 +148179,12 @@
       "weight": 235,
       "born": {
         "year": 1998,
-        "loc": "West Palm Beach, FL"
+        "loc": "West Palm Beach, FL - '21 TO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png",
       "contract": {
         "amount": 2700,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -148158,12 +148396,12 @@
       "weight": 215,
       "born": {
         "year": 1995,
-        "loc": "Silver Spring, MD"
+        "loc": "Silver Spring, MD - '21 TO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628404.png",
       "contract": {
         "amount": 1950,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -150548,7 +150786,7 @@
       "weight": 240,
       "born": {
         "year": 1996,
-        "loc": "Mt. Shasta, CA"
+        "loc": "Mt. Shasta, CA - '21 TO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628391.png",
       "contract": {
@@ -150974,12 +151212,12 @@
       "weight": 184,
       "born": {
         "year": 1997,
-        "loc": "Southfield, MI"
+        "loc": "Southfield, MI - '21 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/1610612756/2018/260x190/1628367.png",
       "contract": {
         "amount": 7050,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -152854,7 +153092,6 @@
           "season": 2020,
           "fuzz": 1.2717263586961254,
           "skills": [
-            "A",
             "Dp"
           ],
           "ovr": 56,
@@ -152868,11 +153105,11 @@
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628983.png",
       "born": {
         "year": 1999,
-        "loc": "Toronto, Canada"
+        "loc": "Toronto, Canada - '21 TO"
       },
       "contract": {
         "amount": 3950,
-        "exp": 2022
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -154766,12 +155003,12 @@
       "weight": 170,
       "born": {
         "year": 1998,
-        "loc": "Upper Marlboro, MD"
+        "loc": "Upper Marlboro, MD - '21 TO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628365.png",
       "contract": {
         "amount": 9750,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -155481,12 +155718,12 @@
       "weight": 240,
       "born": {
         "year": 1998,
-        "loc": "Bartow, FL"
+        "loc": "Bartow, FL - '21 TO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628396.png",
       "contract": {
         "amount": 1950,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -156082,12 +156319,12 @@
       "weight": 200,
       "born": {
         "year": 1997,
-        "loc": "Franklin, OH"
+        "loc": "Franklin, OH - '21 TO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628379.png",
       "contract": {
         "amount": 3830,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -157939,12 +158176,12 @@
       "weight": 188,
       "born": {
         "year": 1997,
-        "loc": "Kansas City, MO"
+        "loc": "Kansas City, MO - '21 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629013.png",
       "contract": {
         "amount": 2000,
-        "exp": 2022
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -158625,12 +158862,12 @@
       "weight": 230,
       "born": {
         "year": 1998,
-        "loc": "Las Vegas, NV"
+        "loc": "Las Vegas, NV - '21 TO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628380.png",
       "contract": {
         "amount": 4250,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -161150,7 +161387,7 @@
       "weight": 230,
       "born": {
         "year": 1994,
-        "loc": "Alexandria, Egypt"
+        "loc": "Alexandria, Egypt - '21 TO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627846.png",
       "contract": {
@@ -162200,12 +162437,12 @@
       "weight": 245,
       "born": {
         "year": 1999,
-        "loc": "Nassau, Bahamas"
+        "loc": "Nassau, Bahamas - '21 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/1610612756/2018/260x190/1629028.png",
       "contract": {
         "amount": 9580,
-        "exp": 2022
+        "exp": 2020
       },
       "draft": {
         "round": 1,
@@ -166993,11 +167230,11 @@
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629004.png",
       "born": {
         "year": 1997,
-        "loc": "Cherkasy, Ukraine"
+        "loc": "Cherkasy, Ukraine - '21 TO"
       },
       "contract": {
         "amount": 1430,
-        "exp": 2021
+        "exp": 2020
       },
       "draft": {
         "round": 2,
@@ -168183,7 +168420,7 @@
       "pid": 819
     },
     {
-      "tid": -1,
+      "tid": 23,
       "name": "Cheick Diallo",
       "pos": "FC",
       "hgt": 81,
@@ -168195,7 +168432,7 @@
       },
       "born": {
         "year": 1997,
-        "loc": "Bamako, Mali"
+        "loc": "Bamako, Mali - '21 TO"
       },
       "draft": {
         "round": 2,
@@ -168332,8 +168569,55 @@
       "rosterOrder": 666,
       "watch": false,
       "yearsFreeAgent": 0,
-      "stats": [],
-      "statsTids": [],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 23,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
+        }
+      ],
+      "statsTids": [
+        23
+      ],
       "firstName": "Cheick",
       "lastName": "Diallo",
       "value": 46.8,
@@ -172248,11 +172532,11 @@
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628382.png",
       "born": {
         "year": 1995,
-        "loc": "Spring, TX"
+        "loc": "Spring, TX - '21 TO"
       },
       "contract": {
         "amount": 3280,
-        "exp": "2021"
+        "exp": 2020
       },
       "draft": {
         "round": 1,
