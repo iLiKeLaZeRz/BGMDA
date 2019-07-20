@@ -17,14 +17,14 @@
       "rid": 0,
       "teams": [
         {
-          "tid": 19,
+          "tid": 27,
           "pids": [],
           "pidsExcluded": [],
           "dpids": [],
           "dpidsExcluded": []
         },
         {
-          "tid": 0,
+          "tid": 8,
           "pids": [],
           "pidsExcluded": [],
           "dpids": [],
@@ -116,6 +116,114 @@
       ],
       "season": 2020,
       "eid": 4
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/10/roster/MIL/2020\">Bucks</a> traded <a href=\"/l/10/player/731\">D.J. Wilson</a> and a 2022 2nd round pick (MIL) to the <a href=\"/l/10/roster/SAC/2020\">Kings</a> for <a href=\"/l/10/player/581\">Kyle Guy</a> and <a href=\"/l/10/player/639\">Tyler Lydon</a>.",
+      "pids": [
+        731,
+        581,
+        639
+      ],
+      "tids": [
+        16,
+        25
+      ],
+      "season": 2020,
+      "eid": 5
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/10/roster/NYK/2020\">Knicks</a> traded <a href=\"/l/10/player/18\">Kris Wilkes</a>, <a href=\"/l/10/player/68\">Elfrid Payton</a>, <a href=\"/l/10/player/89\">Julius Randle</a>, and <a href=\"/l/10/player/687\">Damyean Dotson</a> to the <a href=\"/l/10/roster/GSW/2020\">Warriors</a> for <a href=\"/l/10/player/231\">Klay Thompson</a> and a 2023 1st round pick (GSW).",
+      "pids": [
+        18,
+        68,
+        89,
+        687,
+        231
+      ],
+      "tids": [
+        19,
+        9
+      ],
+      "season": 2020,
+      "eid": 6
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/10/roster/MIL/2020\">Bucks</a> traded <a href=\"/l/10/player/632\">Sterling Brown</a>, <a href=\"/l/10/player/744\">Thanasis Antetokounmpo</a>, and a 2021 1st round pick (MIL) to the <a href=\"/l/10/roster/MIN/2020\">Timberwolves</a> for <a href=\"/l/10/player/535\">Josh Okogie</a>.",
+      "pids": [
+        632,
+        744,
+        535
+      ],
+      "tids": [
+        16,
+        17
+      ],
+      "season": 2020,
+      "eid": 7
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/10/roster/MIN/2020\">Timberwolves</a> traded <a href=\"/l/10/player/56\">Karl-Anthony Towns</a> to the <a href=\"/l/10/roster/DAL/2020\">Mavericks</a> for <a href=\"/l/10/player/14\">Dwight Powell</a>, <a href=\"/l/10/player/318\">Courtney Lee</a>, a 2020 1st round pick (DAL), a 2020 2nd round pick (GSW), a 2020 1st round pick (UTA), a 2021 1st round pick (NYK), a 2022 1st round pick (DAL), and a 2023 1st round pick (DAL).",
+      "pids": [
+        56,
+        14,
+        318
+      ],
+      "tids": [
+        17,
+        6
+      ],
+      "season": 2020,
+      "eid": 8
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/10/roster/MIN/2020\">Timberwolves</a> traded <a href=\"/l/10/player/92\">Andrew Wiggins</a> to the <a href=\"/l/10/roster/SAC/2020\">Kings</a> for <a href=\"/l/10/player/229\">Harrison Barnes</a>, a 2020 2nd round pick (HOU), a 2021 1st round pick (SAC), and a 2022 2nd round pick (SAC).",
+      "pids": [
+        92,
+        229
+      ],
+      "tids": [
+        17,
+        25
+      ],
+      "season": 2020,
+      "eid": 9
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/10/roster/NYK/2020\">Knicks</a> traded <a href=\"/l/10/player/70\">Kristaps Porzingis</a> and <a href=\"/l/10/player/713\">Allonzo Trier</a> to the <a href=\"/l/10/roster/CLE/2020\">Cavaliers</a> for <a href=\"/l/10/player/0\">Kevin Love</a>, <a href=\"/l/10/player/529\">Collin Sexton</a>, and a 2020 1st round pick (CLE).",
+      "pids": [
+        70,
+        713,
+        0,
+        529
+      ],
+      "tids": [
+        19,
+        5
+      ],
+      "season": 2020,
+      "eid": 10
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/10/roster/TOR/2020\">Raptors</a> traded <a href=\"/l/10/player/385\">OG Anunoby</a>, <a href=\"/l/10/player/402\">Serge Ibaka</a>, and <a href=\"/l/10/player/757\">Norman Powell</a> to the <a href=\"/l/10/roster/DET/2020\">Pistons</a> for <a href=\"/l/10/player/277\">Blake Griffin</a>.",
+      "pids": [
+        385,
+        402,
+        757,
+        277
+      ],
+      "tids": [
+        27,
+        8
+      ],
+      "season": 2020,
+      "eid": 11
     }
   ],
   "teams": [
@@ -5478,7 +5586,7 @@
     },
     {
       "key": "userTid",
-      "value": 28
+      "value": 27
     },
     {
       "key": "userTids",
@@ -5598,7 +5706,7 @@
       "dpid": 9
     },
     {
-      "tid": 5,
+      "tid": 19,
       "originalTid": 5,
       "round": 1,
       "pick": 0,
@@ -5614,7 +5722,7 @@
       "dpid": 11
     },
     {
-      "tid": 6,
+      "tid": 17,
       "originalTid": 6,
       "round": 1,
       "pick": 0,
@@ -5670,7 +5778,7 @@
       "dpid": 18
     },
     {
-      "tid": 6,
+      "tid": 17,
       "originalTid": 9,
       "round": 2,
       "pick": 0,
@@ -5686,7 +5794,7 @@
       "dpid": 20
     },
     {
-      "tid": 25,
+      "tid": 17,
       "originalTid": 10,
       "round": 2,
       "pick": 0,
@@ -5966,7 +6074,7 @@
       "dpid": 55
     },
     {
-      "tid": 6,
+      "tid": 17,
       "originalTid": 28,
       "round": 1,
       "pick": 0,
@@ -6254,7 +6362,7 @@
       "dpid": 91
     },
     {
-      "tid": 16,
+      "tid": 17,
       "originalTid": 16,
       "round": 1,
       "pick": 0,
@@ -6302,7 +6410,7 @@
       "dpid": 97
     },
     {
-      "tid": 6,
+      "tid": 17,
       "originalTid": 19,
       "round": 1,
       "pick": 0,
@@ -6398,7 +6506,7 @@
       "dpid": 109
     },
     {
-      "tid": 25,
+      "tid": 17,
       "originalTid": 25,
       "round": 1,
       "pick": 0,
@@ -6574,7 +6682,7 @@
       "dpid": 131
     },
     {
-      "tid": 6,
+      "tid": 17,
       "originalTid": 6,
       "round": 1,
       "pick": 0,
@@ -6742,7 +6850,7 @@
       "dpid": 152
     },
     {
-      "tid": 16,
+      "tid": 25,
       "originalTid": 16,
       "round": 2,
       "pick": 0,
@@ -6886,7 +6994,7 @@
       "dpid": 170
     },
     {
-      "tid": 25,
+      "tid": 17,
       "originalTid": 25,
       "round": 2,
       "pick": 0,
@@ -7054,7 +7162,7 @@
       "dpid": 191
     },
     {
-      "tid": 6,
+      "tid": 17,
       "originalTid": 6,
       "round": 1,
       "pick": 0,
@@ -7102,7 +7210,7 @@
       "dpid": 197
     },
     {
-      "tid": 9,
+      "tid": 19,
       "originalTid": 9,
       "round": 1,
       "pick": 0,
@@ -7440,7 +7548,7 @@
   ],
   "players": [
     {
-      "tid": 5,
+      "tid": 19,
       "name": "Kevin Love",
       "ratings": [
         {
@@ -7643,10 +7751,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 19,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        5
+        5,
+        19
       ],
       "firstName": "Kevin",
       "lastName": "Love",
@@ -8501,12 +8654,12 @@
       "weight": 220,
       "born": {
         "year": 1996,
-        "loc": "Milwaukee, WI"
+        "loc": "Milwaukee, WI - '22 PO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626172.png",
       "contract": {
         "amount": 5000,
-        "exp": 2022
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -9660,12 +9813,12 @@
       "weight": 220,
       "born": {
         "year": 2000,
-        "loc": "Loveland, OH"
+        "loc": "Loveland, OH - '23 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629637.png",
       "contract": {
         "amount": 3550,
-        "exp": 2024
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -10181,7 +10334,7 @@
       "pid": 13
     },
     {
-      "tid": 6,
+      "tid": 17,
       "name": "Dwight Powell",
       "ratings": [
         {
@@ -10374,10 +10527,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 17,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        6
+        6,
+        17
       ],
       "firstName": "Dwight",
       "lastName": "Powell",
@@ -10989,7 +11187,7 @@
       "pid": 17
     },
     {
-      "tid": 19,
+      "tid": 9,
       "name": "Kris Wilkes",
       "ratings": [
         {
@@ -11181,10 +11379,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 9,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        19
+        19,
+        9
       ],
       "firstName": "Kris",
       "lastName": "Wilkes",
@@ -11670,12 +11913,12 @@
       "weight": 255,
       "born": {
         "year": 1998,
-        "loc": "Burlington, Canada"
+        "loc": "Burlington, Canada - '23 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629662.png",
       "contract": {
         "amount": 1650,
-        "exp": 2024
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -12440,12 +12683,12 @@
       "weight": 220,
       "born": {
         "year": 2000,
-        "loc": "South Seattle, WA"
+        "loc": "South Seattle, WA - '23 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629645.png",
       "contract": {
         "amount": 1300,
-        "exp": 2024
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -13050,12 +13293,12 @@
       "weight": 190,
       "born": {
         "year": 1997,
-        "loc": "Raleigh, NC - '21 TO"
+        "loc": "Raleigh, NC - '22 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629010.png",
       "contract": {
         "amount": 3580,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -13245,25 +13488,25 @@
         {
           "age": 21,
           "diq": 28,
-          "dnk": 22,
-          "drb": 56,
-          "endu": 37,
-          "fg": 49,
+          "dnk": 42,
+          "drb": 66,
+          "endu": 57,
+          "fg": 59,
           "ft": 62,
           "hgt": 45,
           "ins": 40,
-          "jmp": 33,
-          "oiq": 39,
+          "jmp": 63,
+          "oiq": 44,
           "pss": 56,
           "reb": 29,
-          "spd": 58,
+          "spd": 68,
           "stre": 31,
           "tp": 41,
           "season": 2020,
           "fuzz": 1.4130312117532506,
           "skills": [],
-          "ovr": 39,
-          "pot": 58,
+          "ovr": 52,
+          "pot": 62,
           "pos": "PG"
         }
       ],
@@ -13272,12 +13515,12 @@
       "weight": 195,
       "born": {
         "year": 1998,
-        "loc": "New Rochelle, NY"
+        "loc": "New Rochelle, NY - '23 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629660.png",
       "contract": {
         "amount": 1830,
-        "exp": 2024
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -13438,11 +13681,11 @@
       ],
       "firstName": "Ty",
       "lastName": "Jerome",
-      "value": 48.5,
-      "valueNoPot": 39,
-      "valueFuzz": 48.5,
-      "valueNoPotFuzz": 39,
-      "valueWithContract": 48.5,
+      "value": 57,
+      "valueNoPot": 52.00000000000001,
+      "valueFuzz": 57,
+      "valueNoPotFuzz": 52.00000000000001,
+      "valueWithContract": 57,
       "salaries": [
         {
           "season": 2020,
@@ -18210,7 +18453,7 @@
       "weight": 225,
       "born": {
         "year": 1996,
-        "loc": "Houston, TX"
+        "loc": "Houston, TX - '22 TO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626159.png",
       "contract": {
@@ -18608,7 +18851,7 @@
       "pid": 55
     },
     {
-      "tid": 17,
+      "tid": 6,
       "name": "Karl-Anthony Towns",
       "ratings": [
         {
@@ -18808,10 +19051,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 6,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        17
+        17,
+        6
       ],
       "firstName": "Karl-Anthony",
       "lastName": "Towns",
@@ -20783,12 +21071,12 @@
       "weight": 210,
       "born": {
         "year": 2001,
-        "loc": "Mississauga, Canada"
+        "loc": "Mississauga, Canada - '23 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629628.png",
       "contract": {
         "amount": 6530,
-        "exp": 2024
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -21142,7 +21430,7 @@
       "pid": 67
     },
     {
-      "tid": 19,
+      "tid": 9,
       "name": "Elfrid Payton",
       "ratings": [
         {
@@ -21335,10 +21623,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 9,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        19
+        19,
+        9
       ],
       "firstName": "Elfrid",
       "lastName": "Payton",
@@ -21366,7 +21699,7 @@
       "ratings": [
         {
           "age": 20,
-          "diq": 34,
+          "diq": 39,
           "dnk": 69,
           "drb": 47,
           "endu": 50,
@@ -21375,17 +21708,17 @@
           "hgt": 44,
           "ins": 54,
           "jmp": 70,
-          "oiq": 41,
+          "oiq": 46,
           "pss": 21,
-          "reb": 37,
+          "reb": 42,
           "spd": 66,
           "stre": 44,
-          "tp": 51,
+          "tp": 56,
           "season": 2020,
           "fuzz": -0.8957826668607414,
           "skills": [],
-          "ovr": 49,
-          "pot": 65,
+          "ovr": 52,
+          "pot": 63,
           "pos": "SG"
         }
       ],
@@ -21394,12 +21727,12 @@
       "weight": 190,
       "born": {
         "year": 1999,
-        "loc": "Lubbock, TX"
+        "loc": "Lubbock, TX - '23 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629633.png",
       "contract": {
         "amount": 5890,
-        "exp": 2024
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -21561,9 +21894,9 @@
       "firstName": "Jarrett",
       "lastName": "Culver",
       "value": 58.6,
-      "valueNoPot": 49,
+      "valueNoPot": 52.00000000000001,
       "valueFuzz": 58.6,
-      "valueNoPotFuzz": 49,
+      "valueNoPotFuzz": 52.00000000000001,
       "valueWithContract": 58.6,
       "salaries": [
         {
@@ -21591,7 +21924,7 @@
       "pid": 69
     },
     {
-      "tid": 19,
+      "tid": 5,
       "name": "Kristaps Porzingis",
       "ratings": [
         {
@@ -21629,12 +21962,12 @@
       "weight": 240,
       "born": {
         "year": 1996,
-        "loc": "Ventspils, Latvia"
+        "loc": "Ventspils, Latvia - '24 PO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/204001.png",
       "contract": {
         "amount": 33000,
-        "exp": 2024
+        "exp": 2023
       },
       "draft": {
         "round": 1,
@@ -21832,11 +22165,56 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 5,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
         6,
-        19
+        19,
+        5
       ],
       "firstName": "Kristaps",
       "lastName": "Porzingis",
@@ -25567,7 +25945,7 @@
       "pid": 88
     },
     {
-      "tid": 19,
+      "tid": 9,
       "name": "Julius Randle",
       "ratings": [
         {
@@ -25762,10 +26140,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 9,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        19
+        19,
+        9
       ],
       "firstName": "Julius",
       "lastName": "Randle",
@@ -26240,7 +26663,7 @@
       "pid": 91
     },
     {
-      "tid": 17,
+      "tid": 25,
       "name": "Andrew Wiggins",
       "ratings": [
         {
@@ -26439,10 +26862,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 25,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        17
+        17,
+        25
       ],
       "firstName": "Andrew",
       "lastName": "Wiggins",
@@ -27295,12 +27763,12 @@
       "weight": 205,
       "born": {
         "year": 1999,
-        "loc": "Toronto, Canada"
+        "loc": "Toronto, Canada - '23 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629638.png",
       "contract": {
         "amount": 2480,
-        "exp": 2024
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -28303,7 +28771,9 @@
           "tp": 61,
           "season": 2020,
           "fuzz": -0.8742833231930653,
-          "skills": [],
+          "skills": [
+            "3"
+          ],
           "ovr": 42,
           "pot": 62,
           "pos": "GF"
@@ -28314,12 +28784,12 @@
       "weight": 211,
       "born": {
         "year": 2000,
-        "loc": "South Hill, VA"
+        "loc": "South Hill, VA - '23 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629640.png",
       "contract": {
         "amount": 1630,
-        "exp": 2024
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -35267,12 +35737,12 @@
       "weight": 184,
       "born": {
         "year": 1990,
-        "loc": "Bronx, NY"
+        "loc": "Bronx, NY - '23 PO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202689.png",
       "contract": {
         "amount": 33000,
-        "exp": 2023
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -38153,12 +38623,12 @@
       "weight": 240,
       "born": {
         "year": 2000,
-        "loc": "Indianapolis, IN - '21 TO"
+        "loc": "Indianapolis, IN - '22 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628991.png",
       "contract": {
         "amount": 6950,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -38596,12 +39066,12 @@
       "weight": 231,
       "born": {
         "year": 1990,
-        "loc": "Houston, TX"
+        "loc": "Houston, TX - '23 PO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202710.png",
       "contract": {
         "amount": 30000,
-        "exp": 2023
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -39379,12 +39849,12 @@
       "weight": 245,
       "born": {
         "year": 1998,
-        "loc": "Cleveland, OH - '21 TO"
+        "loc": "Cleveland, OH - '22 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629016.png",
       "contract": {
         "amount": 1900,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -40141,12 +40611,12 @@
       "weight": 205,
       "born": {
         "year": 2000,
-        "loc": "New Albany, IN"
+        "loc": "New Albany, IN - '23 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/1040x760/1629641.png",
       "contract": {
         "amount": 2600,
-        "exp": 2024
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -41144,12 +41614,12 @@
       "weight": 193,
       "born": {
         "year": 1992,
-        "loc": "Melbourne, Australia"
+        "loc": "Melbourne, Australia - '23 PO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202681.png",
       "contract": {
         "amount": 33000,
-        "exp": 2023
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -41693,12 +42163,12 @@
       "weight": 235,
       "born": {
         "year": 1999,
-        "loc": "Frisco, TX"
+        "loc": "Frisco, TX - '23 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629023.png",
       "contract": {
         "amount": 3050,
-        "exp": 2024
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -51899,12 +52369,12 @@
       "weight": 195,
       "born": {
         "year": 1999,
-        "loc": "Milwaukee, WI"
+        "loc": "Milwaukee, WI - '23 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629673.png",
       "contract": {
         "amount": 1650,
-        "exp": 2024
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -52546,7 +53016,7 @@
       "pid": 228
     },
     {
-      "tid": 25,
+      "tid": 17,
       "name": "Harrison Barnes",
       "ratings": [
         {
@@ -52737,10 +53207,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 17,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        25
+        25,
+        17
       ],
       "firstName": "Harrison",
       "lastName": "Barnes",
@@ -52984,7 +53499,7 @@
       "pid": 230
     },
     {
-      "tid": 9,
+      "tid": 19,
       "name": "Klay Thompson",
       "ratings": [
         {
@@ -53179,10 +53694,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 19,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        9
+        9,
+        19
       ],
       "firstName": "Klay",
       "lastName": "Thompson",
@@ -56278,12 +56838,12 @@
       "weight": 220,
       "born": {
         "year": 1990,
-        "loc": "Los Angeles, CA"
+        "loc": "Los Angeles, CA - '23 PO"
       },
       "imgURL": "http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3992.png",
       "contract": {
         "amount": 38150,
-        "exp": 2023
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -59281,12 +59841,12 @@
       "weight": 220,
       "born": {
         "year": 1990,
-        "loc": "Palmdale, CA"
+        "loc": "Palmdale, CA - '22 PO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202331.png",
       "contract": {
         "amount": 33000,
-        "exp": 2022
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -61097,12 +61657,12 @@
       "weight": 205,
       "born": {
         "year": 1997,
-        "loc": "Compton, CA"
+        "loc": "Compton, CA - '23 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629003.png",
       "contract": {
         "amount": 900,
-        "exp": 2023
+        "exp": 2022
       },
       "draft": {
         "round": 2,
@@ -61832,7 +62392,7 @@
       "pid": 276
     },
     {
-      "tid": 8,
+      "tid": 27,
       "name": "Blake Griffin",
       "ratings": [
         {
@@ -61875,12 +62435,12 @@
       "weight": 251,
       "born": {
         "year": 1989,
-        "loc": "Oklahoma City, OK"
+        "loc": "Oklahoma City, OK - '22 PO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201933.png",
       "contract": {
         "amount": 34250,
-        "exp": 2022
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -62033,10 +62593,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 27,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        8
+        8,
+        27
       ],
       "firstName": "Blake",
       "lastName": "Griffin",
@@ -63403,12 +64008,12 @@
       "weight": 175,
       "born": {
         "year": 1985,
-        "loc": "Winston-Salem, NC"
+        "loc": "Winston-Salem, NC - '22 PO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101108.png",
       "contract": {
         "amount": 38500,
-        "exp": 2022
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -64727,12 +65332,12 @@
       "weight": 205,
       "born": {
         "year": 1997,
-        "loc": "Newark, DE - '21 TO"
+        "loc": "Newark, DE - '22 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628978.png",
       "contract": {
         "amount": 2900,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -66139,12 +66744,12 @@
       "weight": 190,
       "born": {
         "year": 1997,
-        "loc": "Scottsdale, AZ"
+        "loc": "Scottsdale, AZ - '23 TO"
       },
       "imgURL": "https://i.imgur.com/vivWMCf.png",
       "contract": {
         "amount": 2150,
-        "exp": 2024
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -66371,12 +66976,12 @@
       "weight": 200,
       "born": {
         "year": 1998,
-        "loc": "Houston, TX"
+        "loc": "Houston, TX - '23 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629035.png",
       "contract": {
         "amount": 900,
-        "exp": 2021
+        "exp": 2022
       },
       "draft": {
         "round": 2,
@@ -67375,12 +67980,12 @@
       "weight": 180,
       "born": {
         "year": 1998,
-        "loc": "Bordeaux, France"
+        "loc": "Bordeaux, France - '22 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629059.png",
       "contract": {
         "amount": 1430,
-        "exp": 2022
+        "exp": 2021
       },
       "draft": {
         "round": 2,
@@ -67769,12 +68374,12 @@
       "weight": 218,
       "born": {
         "year": 1999,
-        "loc": "Ljubjana, Slovenia - '21 TO"
+        "loc": "Ljubjana, Slovenia - '22 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/1610612742/2018/260x190/1629029.png",
       "contract": {
         "amount": 7700,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -69772,7 +70377,7 @@
       "pid": 317
     },
     {
-      "tid": 6,
+      "tid": 17,
       "name": "Courtney Lee",
       "ratings": [
         {
@@ -69965,10 +70570,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 17,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        6
+        6,
+        17
       ],
       "firstName": "Courtney",
       "lastName": "Lee",
@@ -70943,12 +71593,12 @@
       "weight": 250,
       "born": {
         "year": 1985,
-        "loc": "Akron, OH"
+        "loc": "Akron, OH - '22 PO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2544.png",
       "contract": {
         "amount": 37450,
-        "exp": 2022
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -72119,12 +72769,12 @@
       "weight": 225,
       "born": {
         "year": 1998,
-        "loc": "Flint, MI - '21 TO"
+        "loc": "Flint, MI - '22 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628970.png",
       "contract": {
         "amount": 3750,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -73300,12 +73950,12 @@
       "weight": 234,
       "born": {
         "year": 1992,
-        "loc": "Charleston, SC"
+        "loc": "Charleston, SC - '24 PO"
       },
       "imgURL": "http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6609.png",
       "contract": {
         "amount": 33000,
-        "exp": 2024
+        "exp": 2023
       },
       "draft": {
         "round": 2,
@@ -74072,12 +74722,12 @@
       "weight": 175,
       "born": {
         "year": 2000,
-        "loc": "Dalzell, SC"
+        "loc": "Dalzell, SC - '23 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629630.png",
       "contract": {
         "amount": 7280,
-        "exp": 2024
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -76789,12 +77439,12 @@
       "weight": 197,
       "born": {
         "year": 1996,
-        "loc": "Mission Viejo, CA - '21 TO"
+        "loc": "Mission Viejo, CA - '22 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628990.png",
       "contract": {
         "amount": 2350,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -80512,12 +81162,12 @@
       "weight": 205,
       "born": {
         "year": 1990,
-        "loc": "Chatsworth, CA"
+        "loc": "Chatsworth, CA - '22 PO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201950.png",
       "contract": {
         "amount": 26130,
-        "exp": 2022
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -82669,7 +83319,7 @@
       "pid": 384
     },
     {
-      "tid": 27,
+      "tid": 8,
       "name": "OG Anunoby",
       "ratings": [
         {
@@ -82860,10 +83510,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 8,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        27
+        27,
+        8
       ],
       "firstName": "OG",
       "lastName": "Anunoby",
@@ -82921,12 +83616,12 @@
       "weight": 195,
       "born": {
         "year": 1999,
-        "loc": "Bihac, Bosnia & Herzegovina - '21 TO"
+        "loc": "Bihac, Bosnia & Herzegovina - '22 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629058.png",
       "contract": {
         "amount": 1930,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -85812,7 +86507,7 @@
       "weight": 225,
       "born": {
         "year": 1998,
-        "loc": "New Orleans, LA"
+        "loc": "New Orleans, LA - '22 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629011.png",
       "contract": {
@@ -86042,7 +86737,7 @@
       "pid": 401
     },
     {
-      "tid": 27,
+      "tid": 8,
       "name": "Serge Ibaka",
       "ratings": [
         {
@@ -86244,10 +86939,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 8,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        27
+        27,
+        8
       ],
       "firstName": "Serge",
       "lastName": "Ibaka",
@@ -86306,12 +87046,12 @@
       "weight": 187,
       "born": {
         "year": 1989,
-        "loc": "Long Beach, CA"
+        "loc": "Long Beach, CA - '23 PO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201566.png",
       "contract": {
         "amount": 38150,
-        "exp": 2023
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -86559,12 +87299,12 @@
       "weight": 240,
       "born": {
         "year": 1989,
-        "loc": "Washington, DC"
+        "loc": "Washington, DC - '23 PO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201142.png",
       "contract": {
         "amount": 33000,
-        "exp": 2023
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -89268,12 +90008,12 @@
       "weight": 285,
       "born": {
         "year": 2001,
-        "loc": "Salisbury, NC"
+        "loc": "Salisbury, NC - '23 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629627.png",
       "contract": {
         "amount": 8120,
-        "exp": 2024
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -89663,12 +90403,12 @@
       "weight": 225,
       "born": {
         "year": 1999,
-        "loc": "Phoenix, AZ - '21 TO"
+        "loc": "Phoenix, AZ - '22 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628963.png",
       "contract": {
         "amount": 8580,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -90262,12 +91002,12 @@
       "weight": 210,
       "born": {
         "year": 2000,
-        "loc": "Zagreb, Croatia"
+        "loc": "Zagreb, Croatia - '23 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629677.png",
       "contract": {
         "amount": 2250,
-        "exp": 2024
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -90926,7 +91666,7 @@
       "weight": 200,
       "born": {
         "year": 1994,
-        "loc": "Edmond, OK"
+        "loc": "Edmond, OK - '22 PO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626196.png",
       "contract": {
@@ -91662,12 +92402,12 @@
       "weight": 200,
       "born": {
         "year": 2000,
-        "loc": "Boston, MA"
+        "loc": "Boston, MA - '23 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629647.png",
       "contract": {
         "amount": 900,
-        "exp": 2021
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -92445,7 +93185,7 @@
       "weight": 215,
       "born": {
         "year": 1999,
-        "loc": "Oakville, Canada"
+        "loc": "Oakville, Canada - '22 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629649.png",
       "contract": {
@@ -93374,12 +94114,12 @@
       "weight": 195,
       "born": {
         "year": 2000,
-        "loc": "Milwaukee, WI"
+        "loc": "Milwaukee, WI - '23 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629639.png",
       "contract": {
         "amount": 2080,
-        "exp": 2024
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -98499,12 +99239,12 @@
       "weight": 175,
       "born": {
         "year": 1991,
-        "loc": "Baltimore, MD"
+        "loc": "Baltimore, MD - '22 PO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203115.png",
       "contract": {
         "amount": 12780,
-        "exp": 2022
+        "exp": 2021
       },
       "draft": {
         "round": 2,
@@ -100141,12 +100881,12 @@
       "weight": 215,
       "born": {
         "year": 2000,
-        "loc": "Las Vegas, NV - '21 TO"
+        "loc": "Las Vegas, NV - '22 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628972.png",
       "contract": {
         "amount": 3230,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -103668,12 +104408,12 @@
       "weight": 230,
       "born": {
         "year": 1992,
-        "loc": "Los Angeles, CA"
+        "loc": "Los Angeles, CA - '22 PO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202695.png",
       "contract": {
         "amount": 30000,
-        "exp": 2022
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -104788,12 +105528,12 @@
       "weight": 240,
       "born": {
         "year": 1998,
-        "loc": "Shreveport, LA - '21 TO"
+        "loc": "Shreveport, LA - '22 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/1040x760/1629057.png",
       "contract": {
         "amount": 1950,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -105196,26 +105936,29 @@
       "ratings": [
         {
           "age": 19,
-          "diq": 35,
-          "dnk": 51,
+          "diq": 45,
+          "dnk": 61,
           "drb": 48,
-          "endu": 19,
-          "fg": 38,
+          "endu": 59,
+          "fg": 58,
           "ft": 54,
           "hgt": 51,
           "ins": 31,
           "jmp": 78,
-          "oiq": 28,
+          "oiq": 48,
           "pss": 40,
           "reb": 39,
           "spd": 79,
-          "stre": 48,
+          "stre": 58,
           "tp": 31,
           "season": 2020,
           "fuzz": -4.294538395818707,
-          "skills": [],
-          "ovr": 44,
-          "pot": 64,
+          "skills": [
+            "A",
+            "Dp"
+          ],
+          "ovr": 56,
+          "pot": 74,
           "pos": "SF"
         }
       ],
@@ -105224,12 +105967,12 @@
       "weight": 220,
       "born": {
         "year": 2000,
-        "loc": "Orange Park, FL"
+        "loc": "Orange Park, FL - '23 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629642.png",
       "contract": {
         "amount": 1750,
-        "exp": 2024
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -105390,11 +106133,11 @@
       ],
       "firstName": "Nassir",
       "lastName": "Little",
-      "value": 58,
-      "valueNoPot": 44,
-      "valueFuzz": 58,
-      "valueNoPotFuzz": 44,
-      "valueWithContract": 58,
+      "value": 68.6,
+      "valueNoPot": 56,
+      "valueFuzz": 68.6,
+      "valueNoPotFuzz": 56,
+      "valueWithContract": 68.6,
       "salaries": [
         {
           "season": 2020,
@@ -106785,7 +107528,7 @@
       "weight": 200,
       "born": {
         "year": 1998,
-        "loc": "Cesis, Latvia"
+        "loc": "Cesis, Latvia - '22 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629066.png",
       "contract": {
@@ -107789,12 +108532,12 @@
       "weight": 195,
       "born": {
         "year": 1999,
-        "loc": "Garland, TX - '21 TO"
+        "loc": "Garland, TX - '22 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629015.png",
       "contract": {
         "amount": 3080,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -108174,12 +108917,12 @@
       "weight": 255,
       "born": {
         "year": 1999,
-        "loc": "Fairburn, GA - '21 TO"
+        "loc": "Fairburn, GA - '22 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628976.png",
       "contract": {
         "amount": 5200,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -109446,12 +110189,12 @@
       "weight": 215,
       "born": {
         "year": 2000,
-        "loc": "Phoenix, AZ - '21 TO"
+        "loc": "Phoenix, AZ - '22 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628995.png",
       "contract": {
         "amount": 4400,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -111894,7 +112637,7 @@
       "pid": 528
     },
     {
-      "tid": 5,
+      "tid": 19,
       "name": "Collin Sexton",
       "ratings": [
         {
@@ -111926,12 +112669,12 @@
       "weight": 190,
       "born": {
         "year": 1999,
-        "loc": "Atlanta, GA - '21 TO"
+        "loc": "Atlanta, GA - '22 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629012.png",
       "contract": {
         "amount": 4780,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -112085,10 +112828,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 19,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        5
+        5,
+        19
       ],
       "firstName": "Collin",
       "lastName": "Sexton",
@@ -113148,7 +113936,7 @@
       "pid": 534
     },
     {
-      "tid": 17,
+      "tid": 16,
       "name": "Josh Okogie",
       "ratings": [
         {
@@ -113180,12 +113968,12 @@
       "weight": 211,
       "born": {
         "year": 1999,
-        "loc": "Lagos, Nigeria"
+        "loc": "Lagos, Nigeria - '22 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629006.png",
       "contract": {
         "amount": 2530,
-        "exp": 2022
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -113339,10 +114127,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 16,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        17
+        17,
+        16
       ],
       "firstName": "Josh",
       "lastName": "Okogie",
@@ -113785,12 +114618,12 @@
       "weight": 215,
       "born": {
         "year": 1997,
-        "loc": "Vancouver, Canada"
+        "loc": "Vancouver, Canada - '23 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629634.png",
       "contract": {
         "amount": 2000,
-        "exp": 2024
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -114507,12 +115340,12 @@
       "weight": 210,
       "born": {
         "year": 1990,
-        "loc": "Raleigh, NC"
+        "loc": "Raleigh, NC - '23 PO"
       },
       "imgURL": "http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4237.png",
       "contract": {
         "amount": 38150,
-        "exp": 2023
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -121589,7 +122422,7 @@
       "pid": 580
     },
     {
-      "tid": 25,
+      "tid": 16,
       "name": "Kyle Guy",
       "ratings": [
         {
@@ -121782,10 +122615,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 16,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        25
+        25,
+        16
       ],
       "firstName": "Kyle",
       "lastName": "Guy",
@@ -122597,12 +123475,12 @@
       "weight": 200,
       "born": {
         "year": 1998,
-        "loc": "Baton Rouge, LA - '21 TO"
+        "loc": "Baton Rouge, LA - '22 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628980.png",
       "contract": {
         "amount": 1950,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -124387,12 +125265,12 @@
       "weight": 215,
       "born": {
         "year": 1997,
-        "loc": "Malvern, PA - '21 TO"
+        "loc": "Malvern, PA - '22 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628969.png",
       "contract": {
         "amount": 4180,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -124824,12 +125702,12 @@
       "weight": 225,
       "born": {
         "year": 1998,
-        "loc": "Harlem, NY - '21 TO"
+        "loc": "Harlem, NY - '22 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/1610612753/2018/260x190/1628964.png",
       "contract": {
         "amount": 5700,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -125809,12 +126687,12 @@
       "weight": 185,
       "born": {
         "year": 2000,
-        "loc": "Goldsboro, NC"
+        "loc": "Goldsboro, NC - '23 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629632.png",
       "contract": {
         "amount": 4420,
-        "exp": 2024
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -127954,12 +128832,12 @@
       "weight": 210,
       "born": {
         "year": 2001,
-        "loc": "Conakry, Guinea"
+        "loc": "Conakry, Guinea - '23 TO"
       },
       "imgURL": "https://i.imgur.com/CCsGU8O.jpg",
       "contract": {
         "amount": 3730,
-        "exp": 2024
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -129109,12 +129987,12 @@
       "weight": 205,
       "born": {
         "year": 2000,
-        "loc": "Norristown, PA"
+        "loc": "Norristown, PA - '23 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629629.png",
       "contract": {
         "amount": 4050,
-        "exp": 2024
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -131237,12 +132115,12 @@
       "weight": 215,
       "born": {
         "year": 1999,
-        "loc": "Columbia, MO - '21 TO"
+        "loc": "Columbia, MO - '22 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629008.png",
       "contract": {
         "amount": 3400,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -131606,7 +132484,7 @@
       "pid": 631
     },
     {
-      "tid": 16,
+      "tid": 17,
       "name": "Sterling Brown",
       "ratings": [
         {
@@ -131797,10 +132675,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 17,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        16
+        16,
+        17
       ],
       "firstName": "Sterling",
       "lastName": "Brown",
@@ -132725,12 +133648,12 @@
       "weight": 241,
       "born": {
         "year": 1999,
-        "loc": "Houston, TX"
+        "loc": "Houston, TX - '23 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/1040x760/1629684.png",
       "contract": {
         "amount": 2000,
-        "exp": 2024
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -132922,7 +133845,7 @@
       "pid": 638
     },
     {
-      "tid": 25,
+      "tid": 16,
       "name": "Tyler Lydon",
       "ratings": [
         {
@@ -133113,10 +134036,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 16,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        25
+        25,
+        16
       ],
       "firstName": "Tyler",
       "lastName": "Lydon",
@@ -133162,12 +134130,12 @@
       "weight": 240,
       "born": {
         "year": 1997,
-        "loc": "Berlin, Germany - '21 TO"
+        "loc": "Berlin, Germany - '22 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629021.png",
       "contract": {
         "amount": 2080,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -135124,12 +136092,12 @@
       "weight": 196,
       "born": {
         "year": 1999,
-        "loc": "Reading, PA - '21 TO"
+        "loc": "Reading, PA - '22 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629022.png",
       "contract": {
         "amount": 2780,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -135719,12 +136687,12 @@
       "weight": 200,
       "born": {
         "year": 1994,
-        "loc": "Philadelphia, PA"
+        "loc": "Philadelphia, PA - '22 TO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627853.png",
       "contract": {
         "amount": 3000,
-        "exp": 2022
+        "exp": 2021
       },
       "draft": {
         "round": 0,
@@ -136651,12 +137619,12 @@
       "weight": 190,
       "born": {
         "year": 1999,
-        "loc": "Albany, NY - '21 TO"
+        "loc": "Albany, NY - '22 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png",
       "contract": {
         "amount": 2650,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -138380,12 +139348,12 @@
       "weight": 230,
       "born": {
         "year": 1998,
-        "loc": "Toyama, Japan"
+        "loc": "Toyama, Japan - '23 TO"
       },
       "imgURL": "https://i.imgur.com/baXURjQ.png",
       "contract": {
         "amount": 2350,
-        "exp": 2024
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -140998,12 +141966,12 @@
       "weight": 183,
       "born": {
         "year": 1999,
-        "loc": "Altamonte Springs, FL - '21 TO"
+        "loc": "Altamonte Springs, FL - '22 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629014.png",
       "contract": {
         "amount": 2150,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -141601,12 +142569,12 @@
       "weight": 180,
       "born": {
         "year": 1999,
-        "loc": "Lubbock, TX - '21 TO"
+        "loc": "Lubbock, TX - '22 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png",
       "contract": {
         "amount": 6300,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -142397,7 +143365,7 @@
       "pid": 686
     },
     {
-      "tid": 19,
+      "tid": 9,
       "name": "Damyean Dotson",
       "ratings": [
         {
@@ -142588,10 +143556,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 9,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        19
+        19,
+        9
       ],
       "firstName": "Damyean",
       "lastName": "Dotson",
@@ -146037,12 +147050,12 @@
       "weight": 185,
       "born": {
         "year": 1997,
-        "loc": "Ruston, LA - '21 TO"
+        "loc": "Ruston, LA - '22 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628988.png",
       "contract": {
         "amount": 2250,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -146967,12 +147980,12 @@
       "weight": 235,
       "born": {
         "year": 1999,
-        "loc": "Tuscaloosa, AL"
+        "loc": "Tuscaloosa, AL - '23 TO"
       },
       "imgURL": "http://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4278052.png",
       "contract": {
         "amount": 2600,
-        "exp": 2024
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -147377,7 +148390,7 @@
       "pid": 712
     },
     {
-      "tid": 19,
+      "tid": 5,
       "name": "Allonzo Trier",
       "ratings": [
         {
@@ -147568,10 +148581,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 5,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        19
+        19,
+        5
       ],
       "firstName": "Allonzo",
       "lastName": "Trier",
@@ -147947,12 +149005,12 @@
       "weight": 223,
       "born": {
         "year": 1998,
-        "loc": "Philadelphia, PA"
+        "loc": "Philadelphia, PA - '23 TO"
       },
       "imgURL": "https://i.imgur.com/Mo7N0HN.png",
       "contract": {
         "amount": 5330,
-        "exp": 2024
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -149314,12 +150372,12 @@
       "weight": 173,
       "born": {
         "year": 2000,
-        "loc": "Brentwood, TN"
+        "loc": "Brentwood, TN - '23 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629636.png",
       "contract": {
         "amount": 4850,
-        "exp": 2024
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -150754,7 +151812,7 @@
       "pid": 730
     },
     {
-      "tid": 16,
+      "tid": 25,
       "name": "D.J. Wilson",
       "ratings": [
         {
@@ -150945,10 +152003,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 25,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        16
+        16,
+        25
       ],
       "firstName": "D.J.",
       "lastName": "Wilson",
@@ -153105,11 +154208,11 @@
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628983.png",
       "born": {
         "year": 1999,
-        "loc": "Toronto, Canada - '21 TO"
+        "loc": "Toronto, Canada - '22 TO"
       },
       "contract": {
         "amount": 3950,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -153293,7 +154396,7 @@
       "pid": 743
     },
     {
-      "tid": 16,
+      "tid": 17,
       "name": "Thanasis Antetokounmpo",
       "pos": "SF",
       "hgt": 79,
@@ -153499,10 +154602,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 17,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        16
+        16,
+        17
       ],
       "firstName": "Thanasis",
       "lastName": "Antetokounmpo",
@@ -154307,12 +155455,12 @@
       "weight": 198,
       "born": {
         "year": 1996,
-        "loc": "Jacksonville, FL"
+        "loc": "Jacksonville, FL - '22 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628960.png",
       "contract": {
         "amount": 2450,
-        "exp": 2022
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -155903,7 +157051,7 @@
       "pid": 756
     },
     {
-      "tid": 27,
+      "tid": 8,
       "name": "Norman Powell",
       "ratings": [
         {
@@ -155935,12 +157083,12 @@
       "weight": 215,
       "born": {
         "year": 1994,
-        "loc": "San Diego, CA"
+        "loc": "San Diego, CA - '22 PO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626181.png",
       "contract": {
         "amount": 10130,
-        "exp": 2022
+        "exp": 2021
       },
       "draft": {
         "round": 2,
@@ -156094,10 +157242,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 8,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        27
+        27,
+        8
       ],
       "firstName": "Norman",
       "lastName": "Powell",
@@ -156537,12 +157730,12 @@
       "weight": 210,
       "born": {
         "year": 1996,
-        "loc": "Moon Township, PA"
+        "loc": "Moon Township, PA - '23 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629661.png",
       "contract": {
         "amount": 2000,
-        "exp": 2024
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -156767,12 +157960,12 @@
       "weight": 200,
       "born": {
         "year": 1997,
-        "loc": "Indianapolis, IN"
+        "loc": "Indianapolis, IN - '23 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629685.png",
       "contract": {
         "amount": 1700,
-        "exp": 2024
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -157376,12 +158569,12 @@
       "weight": 240,
       "born": {
         "year": 1997,
-        "loc": "Mostar, Bosnia and Herzegovina"
+        "loc": "Mostar, Bosnia and Herzegovina - '23 TO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627826.png",
       "contract": {
         "amount": 7000,
-        "exp": 2023
+        "exp": 2022
       },
       "draft": {
         "round": 2,
@@ -158176,12 +159369,12 @@
       "weight": 188,
       "born": {
         "year": 1997,
-        "loc": "Kansas City, MO - '21 TO"
+        "loc": "Kansas City, MO - '22 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629013.png",
       "contract": {
         "amount": 2000,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -160239,12 +161432,12 @@
       "weight": 250,
       "born": {
         "year": 2000,
-        "loc": "Sagarejo, Georgia"
+        "loc": "Sagarejo, Georgia - '23 TO"
       },
       "imgURL": "https://i.imgur.com/Gsdjp9S.png",
       "contract": {
         "amount": 2350,
-        "exp": 2024
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -162437,12 +163630,12 @@
       "weight": 245,
       "born": {
         "year": 1999,
-        "loc": "Nassau, Bahamas - '21 TO"
+        "loc": "Nassau, Bahamas - '22 TO"
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/1610612756/2018/260x190/1629028.png",
       "contract": {
         "amount": 9580,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -162877,12 +164070,12 @@
       "weight": 200,
       "born": {
         "year": 1993,
-        "loc": "Los Angeles, CA"
+        "loc": "Los Angeles, CA - '22 PO"
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203915.png",
       "contract": {
         "amount": 10600,
-        "exp": 2022
+        "exp": 2021
       },
       "draft": {
         "round": 2,
