@@ -18,10 +18,20 @@
       "rid": 0,
       "teams": [
         {
-          "tid": 8,
-          "pids": [],
+          "tid": 5,
+          "pids": [
+            66,
+            75,
+            80,
+            81
+          ],
           "pidsExcluded": [],
-          "dpids": [],
+          "dpids": [
+            10,
+            69,
+            70,
+            71
+          ],
           "dpidsExcluded": []
         },
         {
@@ -6123,7 +6133,7 @@
     },
     {
       "key": "userTid",
-      "value": 19
+      "value": 6
     },
     {
       "key": "userTids",
@@ -12270,7 +12280,7 @@
       "pos": "SG",
       "ratings": [
         {
-          "diq": 46,
+          "diq": 55,
           "dnk": 69,
           "drb": 67,
           "endu": 68,
@@ -12279,19 +12289,19 @@
           "hgt": 40,
           "ins": 56,
           "jmp": 57,
-          "oiq": 69,
-          "pss": 57,
+          "oiq": 67,
+          "pss": 51,
           "reb": 51,
           "spd": 67,
-          "stre": 58,
-          "tp": 77,
+          "stre": 52,
+          "tp": 81,
           "season": 2008,
           "fuzz": -3.7552162881090174,
           "skills": [
             "3"
           ],
-          "ovr": 66,
-          "pot": 68,
+          "ovr": 67,
+          "pot": 67,
           "pos": "SG"
         }
       ],
@@ -12456,11 +12466,11 @@
       "statsTids": [
         1
       ],
-      "value": 57.8,
-      "valueNoPot": 68,
-      "valueFuzz": 57.8,
-      "valueNoPotFuzz": 68,
-      "valueWithContract": 57.8,
+      "value": 56.949999999999996,
+      "valueNoPot": 67,
+      "valueFuzz": 56.949999999999996,
+      "valueNoPotFuzz": 67,
+      "valueWithContract": 56.949999999999996,
       "salaries": [
         {
           "season": 2008,
@@ -13431,20 +13441,20 @@
       "ratings": [
         {
           "diq": 69,
-          "dnk": 78,
+          "dnk": 71,
           "drb": 62,
-          "endu": 70,
+          "endu": 75,
           "fg": 69,
           "ft": 60,
-          "hgt": 82,
+          "hgt": 72,
           "ins": 82,
           "jmp": 66,
-          "oiq": 66,
-          "pss": 51,
-          "reb": 78,
-          "spd": 59,
-          "stre": 77,
-          "tp": 47,
+          "oiq": 56,
+          "pss": 41,
+          "reb": 72,
+          "spd": 61,
+          "stre": 81,
+          "tp": 43,
           "season": 2008,
           "fuzz": 1.204044671946205,
           "skills": [
@@ -13454,8 +13464,8 @@
             "Po",
             "R"
           ],
-          "ovr": 76,
-          "pot": 76,
+          "ovr": 73,
+          "pot": 73,
           "pos": "PF"
         }
       ],
@@ -13620,11 +13630,11 @@
       "statsTids": [
         1
       ],
-      "value": 66.60000000000001,
-      "valueNoPot": 74.00000000000001,
-      "valueFuzz": 66.60000000000001,
-      "valueNoPotFuzz": 74.00000000000001,
-      "valueWithContract": 66.60000000000001,
+      "value": 65.7,
+      "valueNoPot": 73,
+      "valueFuzz": 65.7,
+      "valueNoPotFuzz": 73,
+      "valueWithContract": 65.7,
       "salaries": [
         {
           "season": 2008,
@@ -28072,7 +28082,7 @@
       "injuries": [],
       "ptModifier": 1,
       "retiredYear": null,
-      "rosterOrder": 2,
+      "rosterOrder": 3,
       "watch": false,
       "yearsFreeAgent": 0,
       "stats": [
@@ -33744,17 +33754,17 @@
           "diq": 76,
           "dnk": 43,
           "drb": 55,
-          "endu": 53,
+          "endu": 63,
           "fg": 40,
           "ft": 46,
-          "hgt": 73,
-          "ins": 69,
+          "hgt": 77,
+          "ins": 79,
           "jmp": 51,
-          "oiq": 44,
+          "oiq": 36,
           "pss": 40,
-          "reb": 74,
+          "reb": 84,
           "spd": 47,
-          "stre": 78,
+          "stre": 79,
           "tp": 21,
           "season": 2008,
           "fuzz": -0.5251325765701953,
@@ -33877,7 +33887,7 @@
       "injuries": [],
       "ptModifier": 1,
       "retiredYear": null,
-      "rosterOrder": 4,
+      "rosterOrder": 2,
       "watch": false,
       "yearsFreeAgent": 0,
       "stats": [
@@ -33929,11 +33939,11 @@
       "statsTids": [
         7
       ],
-      "value": 45.60000000000001,
-      "valueNoPot": 57.00000000000001,
-      "valueFuzz": 45.60000000000001,
-      "valueNoPotFuzz": 57.00000000000001,
-      "valueWithContract": 45.60000000000001,
+      "value": 50.400000000000006,
+      "valueNoPot": 63,
+      "valueFuzz": 50.400000000000006,
+      "valueNoPotFuzz": 63,
+      "valueWithContract": 50.400000000000006,
       "salaries": [
         {
           "season": 2008,
@@ -34830,7 +34840,7 @@
       "injuries": [],
       "ptModifier": 1,
       "retiredYear": null,
-      "rosterOrder": 3,
+      "rosterOrder": 4,
       "watch": false,
       "yearsFreeAgent": 0,
       "stats": [
@@ -45305,7 +45315,7 @@
       "firstName": "Kevin",
       "hgt": 81,
       "lastName": "Durant",
-      "pos": "SG",
+      "pos": "GF",
       "ratings": [
         {
           "diq": 38,
@@ -45330,7 +45340,7 @@
           ],
           "ovr": 61,
           "pot": 75,
-          "pos": "SG"
+          "pos": "GF"
         }
       ],
       "tid": 20,
@@ -60326,31 +60336,32 @@
       "pos": "SG",
       "ratings": [
         {
-          "diq": 58,
-          "dnk": 80,
+          "diq": 61,
+          "dnk": 87,
           "drb": 70,
-          "endu": 78,
-          "fg": 79,
-          "ft": 73,
+          "endu": 81,
+          "fg": 84,
+          "ft": 75,
           "hgt": 44,
           "ins": 79,
-          "jmp": 75,
+          "jmp": 80,
           "oiq": 72,
           "pss": 53,
           "reb": 54,
-          "spd": 74,
+          "spd": 79,
           "stre": 61,
-          "tp": 74,
+          "tp": 71,
           "season": 2008,
           "fuzz": 2.830816230325569,
           "skills": [
             "3",
             "A",
             "B",
+            "Di",
             "Dp"
           ],
-          "ovr": 73,
-          "pot": 73,
+          "ovr": 75,
+          "pot": 75,
           "pos": "SG"
         }
       ],
@@ -60515,11 +60526,11 @@
       "statsTids": [
         13
       ],
-      "value": 71.175,
-      "valueNoPot": 73,
-      "valueFuzz": 71.175,
-      "valueNoPotFuzz": 73,
-      "valueWithContract": 71.175,
+      "value": 73.125,
+      "valueNoPot": 75,
+      "valueFuzz": 73.125,
+      "valueNoPotFuzz": 75,
+      "valueWithContract": 73.125,
       "salaries": [
         {
           "season": 2008,
@@ -61612,7 +61623,7 @@
       "injuries": [],
       "ptModifier": 1,
       "retiredYear": null,
-      "rosterOrder": 8,
+      "rosterOrder": 7,
       "watch": false,
       "yearsFreeAgent": 0,
       "stats": [
@@ -62883,28 +62894,26 @@
       "pos": "SF",
       "ratings": [
         {
-          "diq": 50,
+          "diq": 45,
           "dnk": 39,
           "drb": 57,
-          "endu": 45,
+          "endu": 55,
           "fg": 56,
           "ft": 58,
-          "hgt": 59,
-          "ins": 36,
+          "hgt": 49,
+          "ins": 56,
           "jmp": 45,
           "oiq": 47,
-          "pss": 54,
+          "pss": 44,
           "reb": 48,
-          "spd": 47,
+          "spd": 41,
           "stre": 43,
-          "tp": 69,
+          "tp": 51,
           "season": 2008,
           "fuzz": -0.13481026394363216,
-          "skills": [
-            "3"
-          ],
-          "ovr": 56,
-          "pot": 57,
+          "skills": [],
+          "ovr": 49,
+          "pot": 51,
           "pos": "SF"
         }
       ],
@@ -63017,7 +63026,7 @@
       "injuries": [],
       "ptModifier": 1,
       "retiredYear": null,
-      "rosterOrder": 6,
+      "rosterOrder": 9,
       "watch": false,
       "yearsFreeAgent": 0,
       "stats": [
@@ -63069,11 +63078,11 @@
       "statsTids": [
         13
       ],
-      "value": 56,
-      "valueNoPot": 56,
-      "valueFuzz": 56,
-      "valueNoPotFuzz": 56,
-      "valueWithContract": 56,
+      "value": 49,
+      "valueNoPot": 49,
+      "valueFuzz": 49,
+      "valueNoPotFuzz": 49,
+      "valueWithContract": 49,
       "salaries": [
         {
           "season": 2008,
@@ -63248,7 +63257,7 @@
       "injuries": [],
       "ptModifier": 1,
       "retiredYear": null,
-      "rosterOrder": 9,
+      "rosterOrder": 8,
       "watch": false,
       "yearsFreeAgent": 0,
       "stats": [
@@ -63471,7 +63480,7 @@
       "injuries": [],
       "ptModifier": 1,
       "retiredYear": null,
-      "rosterOrder": 7,
+      "rosterOrder": 6,
       "watch": false,
       "yearsFreeAgent": 0,
       "stats": [
